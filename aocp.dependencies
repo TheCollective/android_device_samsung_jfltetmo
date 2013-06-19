@@ -21,6 +21,10 @@
   },
   {
     "repository": "proprietary_vendor_jfltetmo",
-    "target_path": "vendor/samsung/d2-common"
+    "target_path": "vendor/samsung/jfltetmo"
+  },
+  {
+    "repository": "proprietary_vendor_jf-common",
+    "target_path": "vendor/samsung/jf-common"
   }
 ]
