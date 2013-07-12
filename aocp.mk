@@ -2,7 +2,7 @@ $(call inherit-product, device/samsung/jfltetmo/full_jfltetmo.mk)
 
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/aocp/config/gsm.mk)
-
+TARGET_BOOTANIMATION_NAME := bootanimation_1080_1920
 # Enhanced NFC
 $(call inherit-product, vendor/aocp/config/nfc_enhanced.mk)
 
